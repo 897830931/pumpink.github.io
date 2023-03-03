@@ -1,0 +1,5 @@
+node_modules/zrender/src/tool/transformPath.ts
+node_modules/
+dist/
+.idea
+.env.development
